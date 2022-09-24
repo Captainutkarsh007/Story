@@ -1,1 +1,2 @@
 This is intial version of chapter2.
+These changes in chapter2 were introduced in alien-plot branch.
